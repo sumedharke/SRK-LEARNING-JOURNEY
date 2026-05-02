@@ -1,3 +1,5 @@
 name = "SRK"
 age = 27
 print(f "My Name is {name}"
+
+print(name)
