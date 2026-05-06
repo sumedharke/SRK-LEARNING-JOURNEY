@@ -25,4 +25,4 @@ claude = "Skilljar"
 print(claude)
 
 Skilljar = "Claude"
-print(Claude)
+print(Skilljar)
