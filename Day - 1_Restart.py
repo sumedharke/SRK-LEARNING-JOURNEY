@@ -23,3 +23,6 @@ print(ai)
 
 claude = "Skilljar"
 print(claude)
+
+Skilljar = "Claude"
+print(Claude)
