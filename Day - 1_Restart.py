@@ -26,3 +26,12 @@ print(claude)
 
 Skilljar = "Claude"
 print(Skilljar)
+
+Addition = 5*5
+Sub = 5-5
+multi = 5*5
+divi = 5/5
+reminder = 5%5
+
+print(Addition, Sub, multi, divi,reminder)
+
