@@ -39,4 +39,7 @@ python = "py4p"
 
 print(python)
 
+data = "Python for Programmers"
+print(data)
+
 
