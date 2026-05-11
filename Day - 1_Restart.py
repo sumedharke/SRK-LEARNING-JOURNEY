@@ -42,4 +42,7 @@ print(python)
 data = "Python for Programmers"
 print(data)
 
+print(data,python,)
+
+
 
