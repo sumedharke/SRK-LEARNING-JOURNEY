@@ -6,6 +6,15 @@
 # git push origin main -/ "Only Use For The First Time"
 # git push
 
+# GIT COMMANDS USEFUL FOR THE PULL ON GITHUB
+
+# git pull origin main -/ "Only Use For The First Time"
+# git pull
+
+
+
+
+
 
 
 name = "SRK"
