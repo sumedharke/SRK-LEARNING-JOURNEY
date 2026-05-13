@@ -14,9 +14,6 @@
 
 
 
-
-
-
 name = "SRK"
 city = "Sillod"
 mission = "Remote developer - stay with my parents forever"
@@ -26,6 +23,8 @@ age = 27
 is_developer = False
 print("Currentrly a developer:", is_developer)
 print("Will be a developer:", True)
+print(age)
+
 
 ai = "JARVIS"
 print(ai)
@@ -52,6 +51,7 @@ data = "Python for Programmers"
 print(data)
 
 print(data,python,)
+
 
 
 
