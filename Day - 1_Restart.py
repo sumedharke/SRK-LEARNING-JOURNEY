@@ -55,6 +55,9 @@ print(data,python,)
 MARVLE = 358
 print(MARVLE)
 
+print(python)
+
+
 
 
 
