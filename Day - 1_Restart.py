@@ -57,6 +57,8 @@ print(MARVLE)
 
 print(python)
 
+party = "cjp"
+print("INDIAN PARTY", party)
 
 
 
