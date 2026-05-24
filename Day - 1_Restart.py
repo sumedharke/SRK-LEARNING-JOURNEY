@@ -60,6 +60,8 @@ print(python)
 party = "cjp"
 print("INDIAN PARTY", party)
 
+print(party)
+
 
 
 
