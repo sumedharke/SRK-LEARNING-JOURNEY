@@ -62,6 +62,8 @@ print("INDIAN PARTY", party)
 
 print(party)
 
+skilljar = "Claude"
+print(skilljar)
 
 
 
