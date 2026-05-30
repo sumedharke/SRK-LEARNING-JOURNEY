@@ -68,5 +68,7 @@ print(skilljar)
 Anthorpic = "Claude"
 print(Anthorpic)
 
-GITHUB = PROJECT
+GITHUB = "PROJECT"
+print(GITHUB)
+
 
