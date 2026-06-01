@@ -12,7 +12,7 @@
 # git pull
 
 
-print
+
 
 name = "SRK"
 city = "Sillod"
