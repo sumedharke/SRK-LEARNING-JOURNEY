@@ -75,3 +75,5 @@ python = "github"
 
 print(python)
 
+print(type(python))
+
