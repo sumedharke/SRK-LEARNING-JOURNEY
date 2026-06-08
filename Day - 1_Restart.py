@@ -81,4 +81,4 @@ print(type(MARVLE))
 print(type(Sub))
 print(type(divi))
 
-print(intput("What is your name?"))
+print(input("What is your name?"))
