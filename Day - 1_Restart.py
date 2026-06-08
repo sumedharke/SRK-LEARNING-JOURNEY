@@ -78,4 +78,7 @@ print(python)
 print(type(python))
 
 print(type(MARVLE))
-print(type(sub))
+print(type(Sub))
+print(type(divi))
+
+print(intput("What is your name?"))
