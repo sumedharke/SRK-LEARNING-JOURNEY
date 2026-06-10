@@ -81,6 +81,7 @@ print(type(MARVLE))
 print(type(Sub))
 print(type(divi))
 
-print(input("What is your name?"))
 
 print("Jarvis")
+
+print("Github Error")
