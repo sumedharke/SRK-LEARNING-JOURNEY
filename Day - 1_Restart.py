@@ -84,3 +84,6 @@ print(type(divi))
 print("Jarvis")
 
 print("Github Error")
+
+print("Solved")
+
