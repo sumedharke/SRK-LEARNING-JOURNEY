@@ -87,7 +87,6 @@ print("Github Error")
 
 print("Solved")
 
-print("Solve")
 
 
       
