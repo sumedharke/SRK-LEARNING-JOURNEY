@@ -84,7 +84,6 @@ print(type(divi))
 
 print("Github Error")
 
-print("Solved")
 
 
 
