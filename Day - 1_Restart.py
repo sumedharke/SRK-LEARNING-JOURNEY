@@ -81,7 +81,6 @@ print(type(MARVLE))
 print(type(Sub))
 print(type(divi))
 
-print("Jarvis")
 
 print("Github Error")
 
