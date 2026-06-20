@@ -82,9 +82,6 @@ print(type(Sub))
 print(type(divi))
 
 
-print("Github Error")
-
-
 
 
       
