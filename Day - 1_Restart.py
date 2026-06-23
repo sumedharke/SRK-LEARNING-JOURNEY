@@ -78,7 +78,6 @@ print(type(python))
 
 print(type(MARVLE))
 print(type(Sub))
-print(type(divi))
 
 
 
