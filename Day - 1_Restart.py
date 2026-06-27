@@ -77,7 +77,6 @@ print(python)
 print(type(python))
 
 print(type(MARVLE))
-print(type(Sub))
 
 
 
