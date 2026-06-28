@@ -76,9 +76,6 @@ print(python)
 
 print(type(python))
 
-print(type(MARVLE))
-
-
 
 
       
