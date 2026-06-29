@@ -74,9 +74,6 @@ print(GITHUB)
 
 print(python)
 
-print(type(python))
-
-
 
       
 
