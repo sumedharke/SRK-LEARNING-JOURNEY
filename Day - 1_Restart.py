@@ -71,9 +71,5 @@ print(Anthorpic)
 GITHUB = "PROJECT"
 print(GITHUB)
 
-
-print(python)
-
-
       
 
